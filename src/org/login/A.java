@@ -27,6 +27,8 @@ public class A {
 	public static void main(String[] args) {
 		A a = new A();
 		a.m2();
+		
+		System.out.println("kanishkar");
 	}
 
 }
